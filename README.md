@@ -67,7 +67,7 @@
 ### Step 1: Clone the repository
 
 ```bash
-git clone [https://github.com/yourusername/auto-service-enum.git](https://github.com/yourusername/auto-service-enum.git)
+git clone https://github.com/Ch3aT4rM7h8dImd007/auto-service-enum.git
 cd auto-service-enum
 ```
 
@@ -436,7 +436,7 @@ Twitter: [@yourtwitter](https://twitter.com/)
 
 ```bash
 # Clone and run
-git clone [https://github.com/yourusername/auto-service-enum.git](https://github.com/yourusername/auto-service-enum.git)
+git clone https://github.com/Ch3aT4rM7h8dImd007/auto-service-enum.git
 cd auto-service-enum
 chmod +x auto_enum.py
 python3 auto_enum.py 192.168.1.0/24
